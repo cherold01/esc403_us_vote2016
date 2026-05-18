@@ -1,0 +1,524 @@
+GINI
+Feature:          healthreformbill_2016
+SHAP → Trump:     1.2679   
+SHAP → Clinton:   -1.3521  
+→ Trump:          Repealed
+→ Clinton:        Expanded
+------------------------------------------------------------
+
+Feature:          obamaapp_2016
+SHAP → Trump:     2.4585   
+SHAP → Clinton:   -1.8945  
+→ Trump:          Strongly Disapprove
+→ Clinton:        Strongly Approve
+------------------------------------------------------------
+
+Feature:          univhealthcov_2016
+SHAP → Trump:     0.0477   
+SHAP → Clinton:   -0.1875  
+→ Trump:          Don't know
+→ Clinton:        Yes
+------------------------------------------------------------
+
+Feature:          policies_favor_2016
+SHAP → Trump:     0.2139   
+SHAP → Clinton:   -0.0867  
+→ Trump:          Favor blacks over whites
+→ Clinton:        Treat both groups the same
+------------------------------------------------------------
+
+Feature:          police_threat_2016
+SHAP → Trump:     0.0812   
+SHAP → Clinton:   -0.1882  
+→ Trump:          Isolated incidents
+→ Clinton:        Part of a broader pattern
+------------------------------------------------------------
+
+Feature:          gvmt_involment_2016
+SHAP → Trump:     0.0111   
+SHAP → Clinton:   -0.0095  
+→ Trump:          Don't know
+→ Clinton:        We need a strong government to handle today's complex economic problems
+------------------------------------------------------------
+
+Feature:          wealth_2016
+SHAP → Trump:     0.3307   
+SHAP → Clinton:   -0.1365  
+→ Trump:          Distribution is fair
+→ Clinton:        Should be more evenly distributed
+------------------------------------------------------------
+
+Feature:          pp_primary16_2016
+SHAP → Trump:     0.1649   
+SHAP → Clinton:   -0.1395  
+→ Trump:          In the Republican primary
+→ Clinton:        In the Democratic primary
+------------------------------------------------------------
+
+Feature:          pid3_2016
+SHAP → Trump:     0.4776   
+SHAP → Clinton:   -0.558  
+→ Trump:          Republican
+→ Clinton:        Democrat
+------------------------------------------------------------
+
+Feature:          govt_reg_2016
+SHAP → Trump:     0.0686   
+SHAP → Clinton:   -0.0761  
+→ Trump:          Too much
+→ Clinton:        Too little
+------------------------------------------------------------
+
+Feature:          ft_blm_2016
+SHAP → Trump:     0.1872   
+SHAP → Clinton:   -0.1413  
+→ Trump:          1.0
+→ Clinton:        80.0
+------------------------------------------------------------
+
+Feature:          envwarm_2016
+SHAP → Trump:     0.1842   
+SHAP → Clinton:   -0.3004  
+→ Trump:          Probably is happening
+→ Clinton:        Definitely is happening
+------------------------------------------------------------
+
+Feature:          immi_contribution_2016
+SHAP → Trump:     0.1867   
+SHAP → Clinton:   -0.1849  
+→ Trump:          Mostly a drain
+→ Clinton:        Mostly make a contribution
+------------------------------------------------------------
+
+Feature:          imiss_l_2016
+SHAP → Trump:     0.0583   
+SHAP → Clinton:   -0.104  
+→ Trump:          Not very important
+→ Clinton:        Very important
+------------------------------------------------------------
+
+Feature:          immi_muslim_2016
+SHAP → Trump:     0.3751   
+SHAP → Clinton:   -0.5118  
+→ Trump:          Somewhat favor
+→ Clinton:        Strongly oppose
+------------------------------------------------------------
+
+Feature:          view_transgender_2016
+SHAP → Trump:     0.0498   
+SHAP → Clinton:   -0.0612  
+→ Trump:          Should be required to use the restrooms of the gender they were born into
+→ Clinton:        Should be allow to us the restrooms of the gender with which they currently identify
+------------------------------------------------------------
+
+Feature:          affirmact_gen_2016
+SHAP → Trump:     0.0527   
+SHAP → Clinton:   -0.0912  
+→ Trump:          Oppose
+→ Clinton:        Favor
+------------------------------------------------------------
+
+Feature:          taxdoug_2016
+SHAP → Trump:     0.1285   
+SHAP → Clinton:   -0.0503  
+→ Trump:          No
+→ Clinton:        Yes
+------------------------------------------------------------
+
+Feature:          RIGGED_SYSTEM_4_2016
+SHAP → Trump:     0.2972   
+SHAP → Clinton:   -0.2021  
+→ Trump:          Strongly agree
+→ Clinton:        Strongly disagree
+------------------------------------------------------------
+
+Feature:          ft_fem_2016
+SHAP → Trump:     0.2093   
+SHAP → Clinton:   -0.2654  
+→ Trump:          1.0
+→ Clinton:        100.0
+------------------------------------------------------------
+
+Feature:          imiss_d_2016
+SHAP → Trump:     0.1202   
+SHAP → Clinton:   -0.048  
+→ Trump:          Not very important
+→ Clinton:        Very important
+------------------------------------------------------------
+
+Feature:          immi_naturalize_2016
+SHAP → Trump:     0.0699   
+SHAP → Clinton:   -0.0294  
+→ Trump:          Oppose
+→ Clinton:        Don't know
+------------------------------------------------------------
+
+Feature:          reverse_discrimination_2016
+SHAP → Trump:     0.3126   
+SHAP → Clinton:   -0.7614  
+→ Trump:          Agree
+→ Clinton:        Strongly Disagree
+------------------------------------------------------------
+
+Feature:          RIGGED_SYSTEM_3_2016
+SHAP → Trump:     0.0994   
+SHAP → Clinton:   -0.1488  
+→ Trump:          Agree
+→ Clinton:        Strongly agree
+------------------------------------------------------------
+
+Feature:          ideo5_2016
+SHAP → Trump:     0.4759   
+SHAP → Clinton:   -0.1953  
+→ Trump:          Conservative
+→ Clinton:        Not sure
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+permutation
+Feature:          obamaapp_2016
+SHAP → Trump:     2.0351   
+SHAP → Clinton:   -1.6766  
+→ Trump:          Strongly Disapprove
+→ Clinton:        Strongly Approve
+------------------------------------------------------------
+
+Feature:          healthreformbill_2016
+SHAP → Trump:     1.3669   
+SHAP → Clinton:   -1.4087  
+→ Trump:          Repealed
+→ Clinton:        Expanded
+------------------------------------------------------------
+
+Feature:          policies_favor_2016
+SHAP → Trump:     0.2324   
+SHAP → Clinton:   -0.1274  
+→ Trump:          Favor blacks over whites
+→ Clinton:        Treat both groups the same
+------------------------------------------------------------
+
+Feature:          police_threat_2016
+SHAP → Trump:     0.0768   
+SHAP → Clinton:   -0.1406  
+→ Trump:          Isolated incidents
+→ Clinton:        Part of a broader pattern
+------------------------------------------------------------
+
+Feature:          pp_primary16_2016
+SHAP → Trump:     0.085   
+SHAP → Clinton:   -0.1091  
+→ Trump:          In the Republican primary
+→ Clinton:        In the Democratic primary
+------------------------------------------------------------
+
+Feature:          reverse_discrimination_2016
+SHAP → Trump:     0.279   
+SHAP → Clinton:   -0.678  
+→ Trump:          Agree
+→ Clinton:        Strongly Disagree
+------------------------------------------------------------
+
+Feature:          taxdoug_2016
+SHAP → Trump:     0.1119   
+SHAP → Clinton:   -0.0474  
+→ Trump:          No
+→ Clinton:        Yes
+------------------------------------------------------------
+
+Feature:          gvmt_involment_2016
+SHAP → Trump:     0.0243   
+SHAP → Clinton:   -0.0073  
+→ Trump:          Don't know
+→ Clinton:        People would be better able to handle today's problems within a free market with less government involvement
+------------------------------------------------------------
+
+Feature:          RIGGED_SYSTEM_3_2016
+SHAP → Trump:     0.0743   
+SHAP → Clinton:   -0.1265  
+→ Trump:          Agree
+→ Clinton:        Strongly agree
+------------------------------------------------------------
+
+Feature:          affirmact_gen_2016
+SHAP → Trump:     0.0848   
+SHAP → Clinton:   -0.1143  
+→ Trump:          Oppose
+→ Clinton:        Favor
+------------------------------------------------------------
+
+Feature:          imiss_d_2016
+SHAP → Trump:     0.1477   
+SHAP → Clinton:   -0.0336  
+→ Trump:          Not very important
+→ Clinton:        Very important
+------------------------------------------------------------
+
+Feature:          immi_naturalize_2016
+SHAP → Trump:     0.1126   
+SHAP → Clinton:   -0.0363  
+→ Trump:          Oppose
+→ Clinton:        Don't know
+------------------------------------------------------------
+
+Feature:          imiss_l_2016
+SHAP → Trump:     0.0466   
+SHAP → Clinton:   -0.0896  
+→ Trump:          Not very important
+→ Clinton:        Very important
+------------------------------------------------------------
+
+Feature:          wealth_2016
+SHAP → Trump:     0.2318   
+SHAP → Clinton:   -0.1156  
+→ Trump:          Distribution is fair
+→ Clinton:        Should be more evenly distributed
+------------------------------------------------------------
+
+Feature:          immi_muslim_2016
+SHAP → Trump:     0.3263   
+SHAP → Clinton:   -0.3303  
+→ Trump:          Somewhat favor
+→ Clinton:        Strongly oppose
+------------------------------------------------------------
+
+Feature:          RIGGED_SYSTEM_4_2016
+SHAP → Trump:     0.1731   
+SHAP → Clinton:   -0.1663  
+→ Trump:          Strongly agree
+→ Clinton:        Agree
+------------------------------------------------------------
+
+Feature:          univhealthcov_2016
+SHAP → Trump:     0.0362   
+SHAP → Clinton:   -0.0888  
+→ Trump:          Don't know
+→ Clinton:        Yes
+------------------------------------------------------------
+
+Feature:          view_transgender_2016
+SHAP → Trump:     0.0363   
+SHAP → Clinton:   -0.0545  
+→ Trump:          Should be required to use the restrooms of the gender they were born into
+→ Clinton:        Should be allow to us the restrooms of the gender with which they currently identify
+------------------------------------------------------------
+
+Feature:          govt_reg_2016
+SHAP → Trump:     0.0427   
+SHAP → Clinton:   -0.0447  
+→ Trump:          Too much
+→ Clinton:        Too little
+------------------------------------------------------------
+
+Feature:          envwarm_2016
+SHAP → Trump:     0.1266   
+SHAP → Clinton:   -0.3006  
+→ Trump:          Probably is happening
+→ Clinton:        Definitely is happening
+------------------------------------------------------------
+
+Feature:          immi_contribution_2016
+SHAP → Trump:     0.1695   
+SHAP → Clinton:   -0.1784  
+→ Trump:          Mostly a drain
+→ Clinton:        Mostly make a contribution
+------------------------------------------------------------
+
+Feature:          pid3_2016
+SHAP → Trump:     0.4679   
+SHAP → Clinton:   -0.6501  
+→ Trump:          Republican
+→ Clinton:        Democrat
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+CramersV
+
+Feature:          obamaapp_2016
+SHAP → Trump:     2.0393   
+SHAP → Clinton:   -1.7017  
+→ Trump:          Strongly Disapprove
+→ Clinton:        Strongly Approve
+------------------------------------------------------------
+
+Feature:          healthreformbill_2016
+SHAP → Trump:     1.3279   
+SHAP → Clinton:   -1.3567  
+→ Trump:          Repealed
+→ Clinton:        Expanded
+------------------------------------------------------------
+
+Feature:          univhealthcov_2016
+SHAP → Trump:     0.0392   
+SHAP → Clinton:   -0.0453  
+→ Trump:          Don't know
+→ Clinton:        Yes
+------------------------------------------------------------
+
+Feature:          ft_blm_2016
+SHAP → Trump:     0.094   
+SHAP → Clinton:   -0.118  
+→ Trump:          0.0
+→ Clinton:        100.0
+------------------------------------------------------------
+
+Feature:          policies_favor_2016
+SHAP → Trump:     0.2203   
+SHAP → Clinton:   -0.1152  
+→ Trump:          Favor blacks over whites
+→ Clinton:        Treat both groups the same
+------------------------------------------------------------
+
+Feature:          imiss_l_2016
+SHAP → Trump:     0.0436   
+SHAP → Clinton:   -0.0623  
+→ Trump:          Not very important
+→ Clinton:        Very important
+------------------------------------------------------------
+
+Feature:          envwarm_2016
+SHAP → Trump:     0.2414   
+SHAP → Clinton:   -0.4466  
+→ Trump:          Probably is happening
+→ Clinton:        Definitely is happening
+------------------------------------------------------------
+
+Feature:          immi_muslim_2016
+SHAP → Trump:     0.2927   
+SHAP → Clinton:   -0.4153  
+→ Trump:          Somewhat favor
+→ Clinton:        Strongly oppose
+------------------------------------------------------------
+
+Feature:          pid3_2016
+SHAP → Trump:     0.4637   
+SHAP → Clinton:   -0.5431  
+→ Trump:          Republican
+→ Clinton:        Democrat
+------------------------------------------------------------
+
+Feature:          pp_primary16_2016
+SHAP → Trump:     0.0392   
+SHAP → Clinton:   -0.043  
+→ Trump:          In the Republican primary
+→ Clinton:        In the Democratic primary
+------------------------------------------------------------
+
+Feature:          ideo5_2016
+SHAP → Trump:     0.3886   
+SHAP → Clinton:   -0.1623  
+→ Trump:          Conservative
+→ Clinton:        Very conservative
+------------------------------------------------------------
+
+Feature:          govt_reg_2016
+SHAP → Trump:     0.0585   
+SHAP → Clinton:   -0.0377  
+→ Trump:          Too much
+→ Clinton:        Too little
+------------------------------------------------------------
+
+Feature:          immi_contribution_2016
+SHAP → Trump:     0.1826   
+SHAP → Clinton:   -0.1879  
+→ Trump:          Mostly a drain
+→ Clinton:        Mostly make a contribution
+------------------------------------------------------------
+
+Feature:          wealth_2016
+SHAP → Trump:     0.3045   
+SHAP → Clinton:   -0.1721  
+→ Trump:          Distribution is fair
+→ Clinton:        Should be more evenly distributed
+------------------------------------------------------------
+
+Feature:          gvmt_involment_2016
+SHAP → Trump:     0.0199   
+SHAP → Clinton:   -0.0123  
+→ Trump:          Don't know
+→ Clinton:        We need a strong government to handle today's complex economic problems
+------------------------------------------------------------
+
+Feature:          ft_fem_2016
+SHAP → Trump:     0.2294   
+SHAP → Clinton:   -0.2021  
+→ Trump:          1.0
+→ Clinton:        100.0
+------------------------------------------------------------
+
+Feature:          police_threat_2016
+SHAP → Trump:     0.1125   
+SHAP → Clinton:   -0.2342  
+→ Trump:          Don't know
+→ Clinton:        Part of a broader pattern
+------------------------------------------------------------
+
+Feature:          reverse_discrimination_2016
+SHAP → Trump:     0.1586   
+SHAP → Clinton:   -0.3148  
+→ Trump:          Agree
+→ Clinton:        Strongly Disagree
+------------------------------------------------------------
+
+Feature:          RIGGED_SYSTEM_4_2016
+SHAP → Trump:     0.2048   
+SHAP → Clinton:   -0.2168  
+→ Trump:          Strongly agree
+→ Clinton:        Agree
+------------------------------------------------------------
+
+Feature:          affirmact_gen_2016
+SHAP → Trump:     0.0362   
+SHAP → Clinton:   -0.032  
+→ Trump:          Oppose
+→ Clinton:        Don't know
+------------------------------------------------------------
+
+Feature:          race_slave_2016
+SHAP → Trump:     0.0952   
+SHAP → Clinton:   -0.0592  
+→ Trump:          Strongly Disagree
+→ Clinton:        Agree
+------------------------------------------------------------
+
+Feature:          race_overcome_2016
+SHAP → Trump:     0.0113   
+SHAP → Clinton:   -0.0105  
+→ Trump:          Agree
+→ Clinton:        Disagree
+------------------------------------------------------------
+
+Feature:          view_transgender_2016
+SHAP → Trump:     0.0525   
+SHAP → Clinton:   -0.0352  
+→ Trump:          Should be required to use the restrooms of the gender they were born into
+→ Clinton:        Should be allow to us the restrooms of the gender with which they currently identify
+------------------------------------------------------------
+
+Feature:          RIGGED_SYSTEM_3_2016
+SHAP → Trump:     0.066   
+SHAP → Clinton:   -0.0939  
+→ Trump:          Agree
+→ Clinton:        Strongly agree
+------------------------------------------------------------
+
+Feature:          ft_unions_2016
+SHAP → Trump:     0.0933   
+SHAP → Clinton:   -0.0533  
+→ Trump:          0.0
+→ Clinton:        91.0
+------------------------------------------------------------

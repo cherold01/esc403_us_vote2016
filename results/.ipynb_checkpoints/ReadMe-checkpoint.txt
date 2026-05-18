@@ -1,0 +1,1 @@
+Folder for outputs: plots, tables, etc
