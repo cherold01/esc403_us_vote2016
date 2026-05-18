@@ -1,11 +1,9 @@
 #folders to ignore
-research/
-results/
+
 
 #files to ignore
 shap_bar.png
 shap_beeswarm.png
-project (2).ipynb
 data/.ipynb_checkpoints/
 
 
