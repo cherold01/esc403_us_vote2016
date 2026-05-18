@@ -1,0 +1,26 @@
+,feature,shap_→_Trump,shap_→_Clinton,answer_→_Trump,answer_→_Clinton
+0,healthreformbill_2016,1.2508,-1.3499,Repealed,Expanded
+1,obamaapp_2016,2.2585,-1.801,Strongly Disapprove,Strongly Approve
+2,univhealthcov_2016,0.0574,-0.1212,Don't know,Yes
+3,policies_favor_2016,0.2663,-0.1234,Favor blacks over whites,Treat both groups the same
+4,gvmt_involment_2016,0.0177,-0.0055,Don't know,We need a strong government to handle today's complex economic problems
+5,police_threat_2016,0.1855,-0.2994,Don't know,Part of a broader pattern
+6,wealth_2016,0.1618,-0.0543,Distribution is fair,—
+7,pp_primary16_2016,0.0378,-0.0286,In the Republican primary,"No, not in either"
+8,govt_reg_2016,0.0833,-0.0607,Too much,Too little
+9,pid3_2016,0.5238,-0.6366,Republican,Democrat
+10,ft_blm_2016,0.1645,-0.1565,1.0,80.0
+11,envwarm_2016,0.1088,-0.3046,Probably is happening,Definitely is happening
+12,immi_contribution_2016,0.15,-0.1417,Mostly a drain,Mostly make a contribution
+13,imiss_l_2016,0.0191,-0.0602,Not very important,Very important
+14,view_transgender_2016,0.0468,-0.0449,Should be required to use the restrooms of the gender they were born into,Should be allow to us the restrooms of the gender with which they currently identify
+15,affirmact_gen_2016,0.0634,-0.1033,Oppose,Favor
+16,immi_muslim_2016,0.3164,-0.3304,Somewhat favor,Strongly oppose
+17,taxdoug_2016,0.1164,-0.0902,No,Yes
+18,ft_fem_2016,0.1863,-0.2496,0.0,100.0
+19,RIGGED_SYSTEM_4_2016,0.1143,-0.09,Strongly agree,Disagree
+20,imiss_d_2016,0.0664,-0.0296,Not very important,Very important
+21,immi_naturalize_2016,0.18,-0.045,Oppose,—
+22,RIGGED_SYSTEM_3_2016,0.0779,-0.1353,Disagree,Strongly agree
+23,gender_equality_2016,0.0409,-0.0251,Men and women have equal opportunities,Men have more opportunities than women
+24,reverse_discrimination_2016,0.2535,-0.6985,Agree,Strongly Disagree
